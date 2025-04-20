@@ -1,0 +1,6 @@
+name: MinigamesServer
+main: Boomgamer\MinigamesPlugin\Main
+version: 1.0.0
+api: 5.25.0
+author: BoomGamer
+description: Made By BoomGamer
